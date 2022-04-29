@@ -12,4 +12,6 @@ retroussa ses manches, prêt à en découdre avec son éditeur de texte et cogne
 Pour commencé, il regarda bien la date des information données, ainsi que la version du langague en question, pour voir si les aides qu'il trouve ne sont pas obselète.
 Ayant quand même du mal, il décida de posé la question sur le forum de ***Stack overflow***, et il reçut de l'aide dans les minutes suivantes.
 
-Il corriga son code, refresh sa page, une nouvelle erreur.. il se dit qu'il avançait !
+Il corriga son code, refresh sa page, une nouvelle erreur.. il se dit qu'il avançait , mais s'il n'arrive pas à accélérer le rythme il n'arrivera jamais a finir son projet en temps et en heure . c'est alors qu'il pense à demander un coup de main à ces camarades . Eux aussi sont submergés par toute ces infos mais ...
+
+
