@@ -11,3 +11,5 @@ retroussa ses manches, prêt à en découdre avec son éditeur de texte et cogne
 
 Pour commencé, il regarda bien la date des information données, ainsi que la version du langague en question, pour voir si les aides qu'il trouve ne sont pas obselète.
 Ayant quand même du mal, il décida de posé la question sur le forum de ***Stack overflow***, et il reçut de l'aide dans les minutes suivantes.
+
+Il corriga son code, refresh sa page, une nouvelle erreur.. il se dit qu'il avançait !
